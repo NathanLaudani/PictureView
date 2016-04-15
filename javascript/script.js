@@ -1,6 +1,6 @@
 
 //Nathan my notes are here in the comments -- Mr. Roche
-
+//thanks
 //alert("hi there");  good idea to test with an alert...
 
 
